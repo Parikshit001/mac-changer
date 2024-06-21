@@ -1,4 +1,4 @@
-# mac-changer
+# Mac-Changer
 This Python script, named mac_changer.py, offers a user-friendly interface for changing the Media Access Control (MAC) address of your network interface on a Linux system. It provides two methods for customization:
 
 -> Specifying an Interface: Use the -i or --interface option to define the network interface you want to modify the MAC address for.
